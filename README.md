@@ -3,7 +3,7 @@
 I'm a software engineer with full-stack experience in frameworks like React and Angular, cloud platforms like Azure and GCP, Kubernetes orchestration, and backend dev with PostgreSQL. Previously at Optum and TEKsystems. Open to work!!
 
 📚 Certified: Azure Fundamentals (AZ-900)<br>
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ethan-nunn-b17037152/)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ethan-nunn/)
 
 <!--
 **enunn1/enunn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
